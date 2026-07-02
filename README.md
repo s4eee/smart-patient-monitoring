@@ -16,7 +16,7 @@ This methodology is selected because the system consists of several interconnect
 Agile allows our team to:
 Deliver functional software in small, testable increment.
 Continuously incorporate feedback from stakeholders, such as doctors, patients, and mentors.
-Detect and resolve defects early in the process[cite: 34].
+Detect and resolve defects early in the process.
 Adapt to changing healthcare requirements and evolving clinical needs.
 Refine AI-based risk prediction models gradually without disrupting other modules.
 
