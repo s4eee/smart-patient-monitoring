@@ -22,3 +22,8 @@ Refine AI-based risk prediction models gradually without disrupting other module
 
 ## Technology Stack
 *To be determined.* The team will select the appropriate technologies during the initial planning phase to best support the modular requirements of this system.
+
+## Project made by-
+Saee Salunkhe
+Aditi Raghorte 
+Jiya Singh
